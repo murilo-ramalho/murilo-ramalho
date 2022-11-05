@@ -2,7 +2,9 @@
 
 ##
 
-- atualmente estou graduando em Desenvolvimento de Sistemas
+- atualmente estou me tornando técnico em Desenvolvimento de Sistemas
+- conhecimento intermediário em HTML5 \ CSS \ JAVASCRIPT \ PHP \ PYTHON \ REACT NATIVE 
+
 
 ##
 
