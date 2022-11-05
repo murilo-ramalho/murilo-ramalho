@@ -2,8 +2,9 @@
 
 ##
 
-- 🤓 atualmente estou graduando em Desenvolvimento de Sistemas
--
+- atualmente estou graduando em Desenvolvimento de Sistemas
+
+##
 
 <div>
 
