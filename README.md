@@ -4,7 +4,7 @@
 
 - atualmente estou quase me tornando técnico em Desenvolvimento de Sistemas (2022 - ETEC Pedro Ferreira Alves)
 - pretendo me graduar em DS (2024 - FATEC Arthur de Azevedo)
-- conhecimento intermediário em HTML5 \ CSS \ JAVASCRIPT \ PHP \ PYTHON \ REACT NATIVE \ CHAT BOT
+- conhecimento intermediário em HTML5 \ CSS \ JAVASCRIPT \ PHP \ PYTHON \ REACT NATIVE \ CHAT BOT \ Mysql
 
 ##
 
