@@ -2,8 +2,8 @@
 
 ##
 
-- Atualmente finalizando o curso técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio (2022 - ETEC Pedro Ferreira Alves)
-- Pretendo me graduar em DS (2024 - FATEC Arthur de Azevedo)
+- Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio em 2022 - ETEC Pedro Ferreira Alves
+- Cursando graduação em Analize e Desenvolvimento de Sistemas (2024 - FATEC Arthur de Azevedo)
 - Conhecimento em HTML5 \ CSS \ JAVASCRIPT \ BOOTSTRAP \ PHP \ PYTHON \ REACT NATIVE \ CHAT BOT \ Mysql
 
 ##
