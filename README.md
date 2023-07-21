@@ -5,7 +5,7 @@
 - Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio em 2022 - ETEC Pedro Ferreira Alves
 - Cursando graduação em Analize e Desenvolvimento de Sistemas (2023\2024 - FATEC Arthur de Azevedo)
 - Conhecimento WEB em HTML5 \ CSS \ JAVASCRIPT \ BOOTSTRAP \ PHP \ CHAT BOT
-- Conhecimento das Linguagens PYTHON \ NodeJs \ REACT \ Mysql \ JAVA
+- Conhecimento das Linguagens PYTHON \ NodeJs \ REACT \ Mysql \ JAVA \ C#
 
 ##
 
