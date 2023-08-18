@@ -1,4 +1,5 @@
 ### SALVE 🗿🍷
+<p>Para contato: ramalhomurilo998@gmail.com</p>
 
 ##
 
@@ -20,5 +21,4 @@
 <br>
 <div>
   <a href="https://br.linkedin.com/in/murilo-ramalho-da-mata-b162a3226"><img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <p>Para contato: ramalhomurilo998@gmail.com</p>
 </div>
