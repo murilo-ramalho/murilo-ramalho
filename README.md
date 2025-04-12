@@ -10,7 +10,7 @@
 
 <div>
 <br>
-  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?username=murilo-ramalho&show_icons=true&count_private=true&theme=transparent">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=murilo-ramalho&show_icons=true&count_private=true&theme=transparent">
   <img width="40.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-ramalho&layout=compact&theme=transparent">
   
 </div>
