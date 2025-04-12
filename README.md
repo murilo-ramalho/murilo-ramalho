@@ -3,9 +3,8 @@
 
 ##
 
-- Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio em 2022 - ETEC Pedro Ferreira Alves
-- Tecnólogo Analize e Desenvolvimento de Sistemas em 2024 - FATEC Arthur de Azevedo
-- Conhecimento das Linguagens JAVASCRIPT \ JAVA \ C# \ PYTHON \ PHP \ SQL \ DELPHI
+- Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio em 2020-2022 ETEC Pedro Ferreira Alves
+- Tecnólogo Analize e Desenvolvimento de Sistemas 2003-2024 FATEC Arthur de Azevedo
 
 ##
 
