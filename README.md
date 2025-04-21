@@ -1,5 +1,4 @@
 ### Software Developer Junior
-<p>Para contato: ramalhomurilo998@gmail.com</p>
 
 ##
 
